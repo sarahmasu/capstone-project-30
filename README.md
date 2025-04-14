@@ -20,11 +20,11 @@ The language used is Python.
 ## Project Description <a name = "description"></a>
 The assignment was based on a shoe inventory system for a Nike warehouse, to assist store managers with stock-taking. To optimise the delivery time, an inventory system needs to be implemented.
 The warehouses store the following information:
-    * Country
-    * Code
-    * Cost
-    * Quantity
-    * Value
+* Country
+* Code
+* Cost
+* Quantity
+* Value
 
 The program also allows store managers to search for the products by code, help them determine which product needs to be restocked by finding out the product with the lowest quantity, find the product with the highest quantity, and calculate the total value of each item in stock.
 
